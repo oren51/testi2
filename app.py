@@ -1,5 +1,6 @@
 print ("hello world")
 print("hello world2")
-# git add.
-# git commit -m"bla bla bla"
-# git push origin main
+print("hi")
+git add .
+git commit -m"bli bli"
+git push origin main
